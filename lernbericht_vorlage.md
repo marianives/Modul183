@@ -26,8 +26,8 @@ Man kann den klaren Code sehen, welcher die Gefahr auf SQL-Injection aufheben un
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Ich konnte gut mit dieser Problemstellung und mit den Hilfestellungen der Aufgabe den Auftrag lösen.
 
-👎 und etwas, was nicht gut lief.
+👎 Ich hatte Probleme mit NetBeans wegen Fehlermeldungen, welche ich übersehen habe.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: ✍️ Fehlerbeschreibung besser lesen / analysieren.
