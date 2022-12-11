@@ -17,11 +17,12 @@ Ich habe gelernt, wie man sich gegen SQL-Injections in einer WebApp sichern kann
 In diesem Code Abschnitt geht es um das insert der News. Zuerst wird ein String mit dem SQL-Statement festgesetzt, in welchem die Values jedoch noch nicht definiert sind "(?)". Als nächstes wird der PreparedStatement deklariert, welcher gegen SQL-Injections schützt. Mit diesem werden dann die fehlenden Angaben deklariert (stmt.set...). Am Schluss wird mit stmt.excecuteUpdate dieser SQL Statement abgeschickt und schon ist man gegen Injection geschützt. Mit catch wird noch im Fall eines Fehlers es gefangen und geloggt.
 
 
+![image](https://user-images.githubusercontent.com/100756109/206929445-0fae21ff-07a5-416a-ae07-56111d597e72.png)
 
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Man kann den klaren Code sehen, welcher die Gefahr auf SQL-Injection aufheben und ist funktionsfähig, da eine News mit dem Injection-Inhalt kreiert wird und nicht den SQL-Statement annimmt.
 
 # Reflektion zum Arbeitsprozess
 
